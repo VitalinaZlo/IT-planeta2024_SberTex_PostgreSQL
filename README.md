@@ -1,6 +1,6 @@
 # Нахождение самого длинного маршрута
 
-![License](https://img.shields.io/github/license/VitalinaZlo/IT-planeta2024_SberTex_PostgreSQL?style=flat-square&label=License&color=e5573e)
+![License](https://img.shields.io/github/license/VitalinaZlo/IT-planeta2024_SberTex_PostgreSQL?style=flat-square&color=e5573e&label=License)
 ![PostgreSQL](https://img.shields.io/badge/build-17-brightgreen?style=flat-square&label=PostgreSQL&color=032677)
 ![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
 
