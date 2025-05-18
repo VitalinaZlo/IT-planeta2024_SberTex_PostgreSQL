@@ -1,3 +1,6 @@
+![PostgreSQL](https://img.shields.io/badge/build-17-brightgreen?style=flat-square&label=PostgreSQL&color=032677)
+![Status](https://img.shields.io/badge/build-completed-green?style=flat-square&label=Status&color=3dc322)
+
 Данный проект был создан для второго тура чемпионата «IT-Планета Pro 2024» в конкурсе «Работа с СУБД Pangolin» от СберТеха. Проект занял шестое место в полуфинале.
 
 # Задача проекта
